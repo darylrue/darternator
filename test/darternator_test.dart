@@ -1,4 +1,4 @@
-import 'package:Darternator/Darternator.dart';
+import 'package:darternator/darternator.dart';
 import 'package:test/test.dart';
 
 void main() {
