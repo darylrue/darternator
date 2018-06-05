@@ -2,17 +2,17 @@
 
 A library for Dart developers.
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
-
 ## Usage
 
 A simple usage example:
 
-    import 'package:Darternator/Darternator.dart';
+    import 'package:darternator/darternator.dart';
 
     main() {
-      var awesome = new Awesome();
+        String s;
+        if(strIsNullOrEmpty(s)) {
+            print('It works!');
+        }
     }
 
 ## Features and bugs
