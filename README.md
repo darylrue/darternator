@@ -1,4 +1,4 @@
-# Darternator
+# darternator
 
 A library for Dart developers.
 
