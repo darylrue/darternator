@@ -1,8 +1,8 @@
 import 'package:darternator/darternator.dart';
 
 main() {
-  String s;
-  if(strIsNullOrEmpty(s)) {
+  String str;
+  if(strIsNullOrEmpty(str)) {
     print('It works!');
   }
 }
