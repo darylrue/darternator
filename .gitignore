@@ -8,3 +8,9 @@ pubspec.lock
 
 # Directory created by dartdoc
 doc/api/
+
+# IntelliJ files
+.idea/
+*.iml
+
+analysis_options.yaml

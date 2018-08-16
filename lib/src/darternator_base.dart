@@ -7,9 +7,9 @@ bool strIsNullOrEmpty(String str) {
   return str?.isEmpty ?? true;
 }
 
-///String s is not null AND s.isNotEmpty returns true
-bool strIsNotNullNorEmpty(String s) {
-  return s?.isNotEmpty ?? false;
+///String str is not null AND str.isNotEmpty returns true
+bool strIsNotNullNorEmpty(String str) {
+  return str?.isNotEmpty ?? false;
 }
 
 ///List list is null OR list.isEmpty returns true
