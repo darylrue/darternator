@@ -1,3 +1,7 @@
 ## 0.0.1
 
-- Initial version, created by Daryl Rue
+- Initial version
+
+## 0.0.2
+
+- Upgrade to Dart 2
